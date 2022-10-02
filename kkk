@@ -53,6 +53,15 @@
         "right_answer": "To Add Breakline"
 
      },
+     {
+        "title": "Why We use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Add Horizontel line",
+        "right_answer": "To Add Breakline"
+
+    },
         {
         "title": "Why We use <br> Element",
         "answer_1": "To Make Text Bold",
@@ -60,13 +69,6 @@
         "answer_3": "To Add Breakline",
         "answer_4": "To Add Horizontel line",
         "right_answer": "To Add Breakline"
- },
-        {
-        "title": "Why We use <br> Element",
-        "answer_1": "To Make Text Bold",
-        "answer_2": "To Make Text Italic",
-        "answer_3": "To Add Breakline",
-        "answer_4": "To Add Horizontel line",
-        "right_answer": "To Add Breakline"
-}
+
+     },
 ]
